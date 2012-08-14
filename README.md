@@ -1,0 +1,2 @@
+# PHP AMQP Example application
+
